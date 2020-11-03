@@ -70,7 +70,11 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 }
 
-
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
 a:visited {
   /* color: rgb(220, 223, 227); */
   color: black;
