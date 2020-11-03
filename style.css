@@ -69,3 +69,21 @@ body {
 	background-color: rgb(  245, 246, 247);
 	font-family: Arial, Helvetica, sans-serif;
 }
+
+
+a:visited {
+  /* color: rgb(220, 223, 227); */
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: gray;
+  background-color: transparent;
+  text-decoration: underline;
+}
