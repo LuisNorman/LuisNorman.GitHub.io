@@ -15,7 +15,7 @@
 .introduction {
 	margin: 0 auto;
 	font-size: 20px;
-	text-align: center;
+	/* text-align: center; */
 	width: 90%;
 
 }
@@ -23,7 +23,7 @@
 .education {
 	margin: 0 auto;
 	font-size: 20px;
-	text-align: center;
+	/* text-align: center; */
 	width: 90%;
 	/*margin-left: 40px;*/
 
@@ -32,8 +32,8 @@
 .experience {
 	margin: 0 auto;
 	font-size: 20px;
-	text-align: center;
-	width: 90%;
+	/* text-align: center; */
+	/* width: 90%; */
 	/*margin-left: 40px;*/
 
 }
@@ -46,15 +46,15 @@ div#experience il {
 .projects {
 	margin: 0 auto;
 	font-size: 20px;
-	text-align: center;
-	width: 90%;
+	/* text-align: center; */
+	/* width: 90%; */
 }
 
 .skills {
 	margin: 0 auto;
 	font-size: 20px;
-	text-align: center;
-	width: 90%;
+	/* text-align: center; */
+	/* width: 90%; */
 }
 
 .contact {
@@ -65,6 +65,7 @@ div#experience il {
 }
 
 body {
-	background-color: rgb(255,229, 204);
+  /* background-color: rgb(255,229, 204); */
+	background-color: rgb(  245, 246, 247);
 	font-family: Arial, Helvetica, sans-serif;
 }
