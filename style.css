@@ -74,7 +74,8 @@ a:link {
   text-decoration: none;
 }
 a:visited {
-  color: rgb(24, 54, 94);
+  /* color: rgb(24, 54, 94); */
+  color: gray;
   background-color: transparent;
   text-decoration: none;
 }
