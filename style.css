@@ -74,13 +74,17 @@ body {
 }
 
 a:link {
-  color: rgb(43, 80, 143);
+  /* color: rgb(43, 80, 143); */
+  color: rgb(0, 0, 0);
+  
   background-color: transparent;
   text-decoration: none;
 }
 a:visited {
   /* color: rgb(24, 54, 94); */
-  color: gray;
+  /* color: gray; */
+  color: rgb(0, 0, 0);
+
   background-color: transparent;
   text-decoration: none;
 }
